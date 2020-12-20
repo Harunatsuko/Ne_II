@@ -8,3 +8,4 @@ nltk
 scikit-learn
 pyenchant
 pandas_profiling
+beautifulsoup4
